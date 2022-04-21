@@ -1,0 +1,45 @@
+2022-04-21 10:34:52,067 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2022-04-21 10:34:52,067 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-04-21 10:34:52,067 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: Version 5.4.3
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: java.version=1.8.0_301
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: os.name=Windows Server 2019
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: os.arch=x86
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: os.version=10.0
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: java.awt.headless=null
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: Max memory     =259522560
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: Available Processors =8
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: Default Locale=English (United States)
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: JMeterHome=D:\JMeter\JmeterJenkinDemo\apache-jmeter-5.4.3
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: user.dir  =D:\JMeter\JmeterJenkinDemo\apache-jmeter-5.4.3\bin
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: PWD       =D:\JMeter\JmeterJenkinDemo\apache-jmeter-5.4.3\bin
+2022-04-21 10:34:52,082 INFO o.a.j.JMeter: IP: 172.25.45.135 Name: qnm0110aa FullName: qnm0110aa.safeway01.ad.safeway.com
+2022-04-21 10:34:52,129 INFO o.a.j.JMeter: Setting LAF to: laf:javax.swing.plaf.metal.MetalLookAndFeel
+2022-04-21 10:34:52,183 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-04-21 10:34:53,293 INFO o.j.r.JARSourceHTTP: Found cached repo
+2022-04-21 10:34:53,455 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-functions=2.1, jpgc-casutg=2.10, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-perfmon=2.1, jpgc-plugins-manager=1.7, jpgc-tst=2.5, jmeter-core=5.4.3, jmeter-ftp=5.4.3, jmeter-http=5.4.3, jmeter-jdbc=5.4.3, jmeter-jms=5.4.3, jmeter-junit=5.4.3, jmeter-java=5.4.3, jmeter-ldap=5.4.3, jmeter-mail=5.4.3, jmeter-mongodb=5.4.3, jmeter-native=5.4.3, jmeter-tcp=5.4.3, jmeter-components=5.4.3, jpgc-standard=2.0]
+2022-04-21 10:35:07,950 INFO o.a.j.s.FileServer: Default base='D:\JMeter\JmeterJenkinDemo\apache-jmeter-5.4.3\bin'
+2022-04-21 10:35:07,952 INFO o.a.j.g.a.Load: Loading file: D:\JMeter\JmeterJenkinDemo\apache-jmeter-5.4.3\bin\COPS_Azure_MixedScenario_Lv1.jmx
+2022-04-21 10:35:07,952 INFO o.a.j.s.FileServer: Set new base='D:\JMeter\JmeterJenkinDemo\apache-jmeter-5.4.3\bin'
+2022-04-21 10:35:08,049 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-04-21 10:35:08,065 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-04-21 10:35:08,065 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-04-21 10:35:08,065 INFO o.a.j.s.SaveService: Loading file: D:\JMeter\JmeterJenkinDemo\apache-jmeter-5.4.3\bin\COPS_Azure_MixedScenario_Lv1.jmx
+2022-04-21 10:35:08,533 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2022-04-21 10:35:08,533 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-04-21 10:35:08,533 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-04-21 10:35:08,533 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-04-21 10:35:08,533 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-04-21 10:35:08,533 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-04-21 10:35:08,533 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-04-21 10:35:09,736 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-04-21 10:35:09,736 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-04-21 10:35:09,736 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-04-21 10:35:09,736 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-04-21 10:35:09,924 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2022-04-21 10:35:09,924 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2022-04-21 10:35:10,471 INFO o.a.j.s.FileServer: Set new base='D:\JMeter\JmeterJenkinDemo\apache-jmeter-5.4.3\bin'
